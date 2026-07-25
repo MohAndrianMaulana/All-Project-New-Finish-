@@ -6,8 +6,8 @@ Aplikasi Full Stack untuk mengelola data perpustakaan.
 
 | Layer      | Teknologi    |
 | ---------- | ------------ |
-| Frontend   | SvelteKit    |
-| Backend    | Express.js   |
+| Frontend   | SvelteKit + HTML + CSS + JavaScript    |
+| Backend    | Express.js + Node.js  |
 | Database   | MariaDB      |
 | ORM        | Drizzle ORM  |
 | Auth       | JWT + bcrypt |
