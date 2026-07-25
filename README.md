@@ -61,3 +61,25 @@ npm run dev             # jalankan di port 5173
 │       ├── schema/            # Drizzle ORM schema
 │       └── utils/             # JWT & password helpers
 ```
+## Default URL
+
+Frontend
+
+```
+http://localhost:5173
+```
+
+Backend
+
+```
+http://localhost:3000
+```
+## Fitur
+
+- Login & Register
+- Dashboard
+- CRUD Buku
+- CRUD Penulis
+- CRUD Kategori
+- JWT Authentication
+- Responsive Design
