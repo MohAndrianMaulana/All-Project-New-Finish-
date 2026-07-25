@@ -26,7 +26,7 @@ CREATE DATABASE perpustakaan_db;
 
 ```bash
 cd backend
-cp .env.example .env   # isi konfigurasi database & JWT_SECRET
+cp .env.example |.env   # isi konfigurasi database & JWT_SECRET
 npm install
 npm run db:push         # buat tabel di database
 npm run dev             # jalankan server di port 3000
